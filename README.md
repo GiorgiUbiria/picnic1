@@ -1,0 +1,1 @@
+I am deeply sorry for my inconvenience. I didn't read the prompt carefully and as a result this "Project" is not what it should've been. Instead of creating a chart/diagram style visualization, I mirrored the given .csv file and displayed is as a table, which of course is not suitable for analysis.
